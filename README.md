@@ -1,5 +1,5 @@
 # pysr_scaling_laws
-You should use PySR to find scaling laws. Here's an example.
+You should use PySR to find scaling laws. Here's an example: [better_scaling_law_llama2.py](https://github.com/MilesCranmer/pysr_scaling_laws/blob/master/better_scaling_law_llama2.py)
 
 
 Source for scaling dataset: https://arxiv.org/abs/2309.16039
